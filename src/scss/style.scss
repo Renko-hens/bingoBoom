@@ -1,0 +1,10 @@
+// global
+@import './global/normalize';
+@import './variables/variables.scss';
+@import './global/global.scss';
+
+// additional
+@import './global/typographick.scss';
+
+// components
+@import './components/approve-card/approve-card.scss';

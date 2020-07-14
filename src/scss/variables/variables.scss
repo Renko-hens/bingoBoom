@@ -1,0 +1,25 @@
+:root {
+  --main-color: #F4F1E9;
+  --second-color: #2B234C;
+  --third-color: #D259F5;
+  --fourth-color: #FFFFFF;
+
+  --button-hover: #453879;
+
+  --light-theme-bg: var(--main-color);
+  --light-theme-text: var(--second-color);
+
+  --light-theme-accent: var(--second-color);
+  --light-theme-accent-additional: var(--fourth-color);
+  --light-theme-accent-hover: #2B234CCC;
+
+  --dark-theme-bg: var(--second-color);
+  --dark-theme-text: var(--main-color);
+
+  --dark-theme-accent: var(--third-color);
+  --dark-theme-accent-additional: var(--main-color);
+  --dark-theme-accent-hover: #D259F5CC;
+
+
+  --change-theme-time: 0.3s;
+}
