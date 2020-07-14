@@ -1,4 +1,4 @@
-<a href="https://i.otzovik.com/objects/b/190000/186322.png" title="BingoBoom" alt="BingoBoom"></a>
+<a href="https://bingoboom.ru/images/logo/logo_bingoboom.svg?v=9951x436" title="BingoBoom" alt="BingoBoom"></a>
 
 # Тестовое задание от BingoBoom
 
